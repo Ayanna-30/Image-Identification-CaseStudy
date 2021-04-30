@@ -1,0 +1,24 @@
+body
+{
+    background: lightsalmon;
+}
+
+.color b
+{
+    color: violet
+}
+
+.shadow
+{
+    background: #fff8f8;
+	padding: 30px;
+	border-radius: 20px;
+	width: 60%;
+	display: inline-block;
+	box-shadow: 10px 10px 45px rgb(255, 228, 215);
+}
+
+.img-responsive
+{
+    border-radius: 500px;
+}
